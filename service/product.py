@@ -1,5 +1,5 @@
 from models.product import Product as ModelProduct
-from schemas.product import Product as SchemaProduct
+from schemas.product import product as SchemaProduct
 
 class ServiceProduct ():
 
