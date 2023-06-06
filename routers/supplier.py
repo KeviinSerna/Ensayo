@@ -5,9 +5,9 @@ from fastapi.encoders import jsonable_encoder
 
 from fastapi.security import HTTPBearer
 from config.database import Session
-from models.supplier import Movie as MovieModel
-from service.supplier import supplierService
-from schemas.supplier import Movie
+from models.supplier import Supplier as modelsupplier
+from service.supplier import servicesupplier
+from schemas.supplier import Supplier as schemasupplier
 
 supplier_router= APIRouter()
 
