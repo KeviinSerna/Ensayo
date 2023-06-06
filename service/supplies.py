@@ -1,7 +1,7 @@
 from models.supplies import Supplies as ModelSupplies
 from schemas.supplies import Supplies as SchemaSupplies
 
-class ServiceSupplies():
+class servicesupplies():
 
     def __init__(self, db):
         self.db= db
