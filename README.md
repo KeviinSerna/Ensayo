@@ -1,4 +1,4 @@
-# Proyecto de CRUD de Películas - FastAPI
+# Proyecto de Sistema de Inventario - FastAPI
 
 <img src="img/programate-academy.png" alt="Logo Programate">
 
