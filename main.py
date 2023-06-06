@@ -20,7 +20,6 @@ app.include_router(product_router)
 app.include_router(supplier_router)
 app.include_router(supplies_router)
 
-
 Base.metadata.create_all(bind=engine)
 
 
